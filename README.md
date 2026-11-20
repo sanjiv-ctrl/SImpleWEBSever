@@ -44,3 +44,26 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
+
+## TECHNOLOGIES USED:
+
+- Python
+- HTML
+- HTTP Server module
+- Web Browser
+
+## HOW TO RUN:
+
+1. Make sure Python is installed.
+2. Download or clone this repository.
+3. Open the project folder in the terminal.
+4. Run the Python server script.
+5. Open a browser and visit http://127.0.0.1:8000.
+
+## PROJECT STATUS:
+
+Completed as a beginner-level web server implementation.
+
+## MY CONTRIBUTION:
+
+Worked on understanding the web server workflow, Python implementation, serving HTML pages and testing the application locally.
